@@ -1,0 +1,11 @@
+{
+  "name": "lambda-create-thumbnail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CreateThumbnail.js",
+  "dependencies": {
+    "gm": "^1.23.0"
+  },
+  "author": "Davi D Reinke <dreinke@gmail.com>",
+  "license": "ISC"
+}
